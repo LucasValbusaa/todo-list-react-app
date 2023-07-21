@@ -1,9 +1,9 @@
 # NodeJS Fundamentals
 
 <p align="center">
-  <img src="https://img.shields.io/static/v1?label=challenge&message=todo-list-react-app.git&color=blueviolet&style=for-the-badge"/>
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/LucasValbusaa/todo-list-react-app.git?color=blueviolet&logo=JavaScript&logoColor=white&style=for-the-badge">
-  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/LucasValbusaa/todo-list-react-app.git?color=blueviolet&style=for-the-badge">
+  <img src="https://img.shields.io/static/v1?label=challenge&message=todo-list-react-app&color=blueviolet&style=for-the-badge"/>
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/LucasValbusaa/todo-list-react-app?color=blueviolet&logo=JavaScript&logoColor=white&style=for-the-badge">
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/LucasValbusaa/todo-list-react-app?color=blueviolet&style=for-the-badge">
 </p>
 
 <p align="center">
@@ -14,6 +14,10 @@
 ## Sobre
 
 Desafio proposto no primeiro módulo do Ignite 2023 na trilha de NodeJS.
+
+## Acessando para teste
+
+Você pode acessar o site para teste no seguinte [LINK](https://lucasvalbusaa.github.io/todo-list-react-app/)
 
 ## Instalação
 
